@@ -1,7 +1,6 @@
 # 💫 About Me:
 🌐 I'm currently working on: A personal chef website that uses generative AI for personalized meal suggestions.<br>🤝 I'm looking to collaborate on: Full-stack development, backend projects in Rust or TypeScript, and improving web performance.<br>💡 I'm looking for help with: Project ideas to explore with Rust.<br>📚 I'm currently learning: Rust for backend development and improving my Docker skills.<br>💬 Ask me about: Web development, backend technologies, or anything programming-related!<br>🎉 Fun fact: I love coding, cooking, and learning new things—sometimes all at the same time!
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nXvZfjB2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grigoli-patsatsia) 
 
