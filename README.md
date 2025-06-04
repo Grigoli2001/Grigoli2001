@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 I'm currently working on: A portfolio website highlighting my skills and personal projects.<br>>📚 I'm currently learning: Rust for backend development.<br>💬 Ask me about: Web development, backend technologies, or anything programming-related!<br>🎉 Fun fact: I love solving-problems, playing sports, travelling and just enjoying my life.
+🌐 I'm currently working at Moderering as a founding engineer 📚 I'm currently learning: Rust for backend development.<br>💬 Ask me about: Web development, backend technologies, or anything programming-related!<br>🎉 Fun fact: I love solving-problems, playing sports, travelling and just enjoying my life.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nXvZfjB2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grigoli-patsatsia) 
